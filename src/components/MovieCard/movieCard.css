@@ -1,0 +1,27 @@
+.card-item {
+  background-color: #0f171e;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.card-item:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+.card-item .card-top {
+  height: 300px;
+}
+.card-item .card-top img {
+  width: 100%;
+  height: 100%;
+}
+.card-item .card-info {
+  color: #ffffff;
+}
+.card-item .card-info h4 {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.card-item .card-bottom {
+  padding: 20px;
+}/*# sourceMappingURL=movieCard.css.map */

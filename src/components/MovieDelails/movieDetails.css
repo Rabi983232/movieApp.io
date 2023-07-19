@@ -1,0 +1,50 @@
+.movie-section {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 0px;
+  color: #ffffff;
+  font-weight: 400;
+}
+.movie-section .movie-reting {
+  padding-left: 3px;
+  margin-top: 20px;
+  color: #79b8f3;
+  display: flex;
+}
+.movie-section .movie-reting span {
+  margin-right: 20px;
+}
+.movie-section .movie-title {
+  font-size: 40px;
+  color: #ffffff;
+}
+.movie-section .movie-title .movie-plot {
+  margin-top: 20px;
+  line-height: 1.8rem;
+}
+.movie-section .movie-info > div span:first-child {
+  padding: 10px 0px;
+  color: #ffffff;
+  font-weight: 600;
+  width: 100px;
+  display: inline-block;
+}
+.movie-section .movie-info > div span {
+  color: #79b8f3;
+}
+.movie-section .fa-star {
+  color: #ff9e00;
+}
+.movie-section .fa-thumbs-up {
+  color: #fafafa;
+}
+.movie-section .fa-flim {
+  color: rgb(191, 213, 214);
+}
+.movie-section .fa-calender {
+  color: peachpuff;
+}
+
+.section-right {
+  margin-left: 30px;
+}/*# sourceMappingURL=movieDetails.css.map */

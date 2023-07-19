@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: #0f171e;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin: 0px 40px;
+}/*# sourceMappingURL=main.css.map */
